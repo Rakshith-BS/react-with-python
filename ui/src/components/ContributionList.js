@@ -105,7 +105,7 @@ const ContributionList = () => {
       <div className="filter-container">
         <input
           type="text"
-          placeholder="Search by title..."
+          placeholder="Search by title, description, owner.."
           value={searchTerm}
           onChange={handleSearch}
           className="search-bar"
