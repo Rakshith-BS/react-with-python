@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/rakshith/Documents/Rakshith-GitHub/fe-tech-test/server/venv"
+VIRTUAL_ENV="/Users/rakshith/Documents/Rakshith-GitHub/react-with-python/server/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
